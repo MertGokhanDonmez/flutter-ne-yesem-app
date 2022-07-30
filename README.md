@@ -3,4 +3,4 @@
 
 ## Ekran Goruntusu
 
-<img src='ekran.jpg'></img>
+<img src='ekran.png'></img>
